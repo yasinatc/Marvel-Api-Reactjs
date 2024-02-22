@@ -1,6 +1,5 @@
 # React-Marvel
 
-This is a personal project for learning React, using the Marvel's API:
 
 | React  | Marvel's API |
 | ------------- | ------------- |
